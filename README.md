@@ -2,7 +2,7 @@
 ## Desarrollada en LaTeX
 ---  
 
-**Autor: Edgar Eliu Vargas**  
+**Autor: Edgar Eliú Vargas**  
 **Email: [ee.vargasmartinez@gmail.com](mailto:ee.vargasmartinez@gmail.com)**
 
 ![alt text][portada]
